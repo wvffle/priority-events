@@ -7,7 +7,7 @@
   "private": false,
   "author": "Kasper Seweryn <casper@wvffle.net>",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -R dot"
   },
   "dependencies": {
     "fastpriorityqueue": "^0.6.1"
